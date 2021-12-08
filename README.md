@@ -13,17 +13,21 @@ I've recently graduated from Codaisseur and I'm excited to continue to challenge
 
 ### languages and tools: 
 
-[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode" /><img align="left" alt="Javascript" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5" />
-<img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
-<img align="left" alt="Express" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express" />
-<img align="left" alt="Redux" src="https://img.shields.io/badge/Redux-grey?style=for-the-badge&logo=Redux" />
-<img align="left" alt="React" src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React" />
-<img align="left" alt="PostgressSQL" src="https://img.shields.io/badge/PostgressSQL-9cf?style=for-the-badge&logo=postgresql" />
-<img align="left" alt="nodeJS" src="https://img.shields.io/badge/Node.Js-brightgreen?style=for-the-badge&logo=nodedotjs" />
-<img align="left" alt="Sequelize" src="https://img.shields.io/badge/Sequelize-brightgreen?style=for-the-badge&logo=sequelize" />]
+ <p>
+    <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+    <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
+    <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" />
+    <img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-52B0E7?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
 
-<br />
+ </P>
+
+<p>
 ### Current projects:
 
 #### 🐭 Mausritter charactersheet :mouse:
@@ -32,7 +36,7 @@ For my graduate project I have been building an app to create and save a charact
 <br/>
 [Here's a link to Mausritter](https://mausritter.com/)
 
-
+</p>
 Reach out to me at: 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg#gh-light-mode-only' alt='github' height='40' style="background-color: white;">](https://github.com/Itsapon)  
