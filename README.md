@@ -24,9 +24,11 @@ I've recently graduated from Codaisseur and I'm excited to continue to challenge
 
 ### Current projects:
 
-#### Mausritter charactersheet
+#### 🐭 Mausritter charactersheet :mouse:
 
 For my graduate project I have been building an app to create and save a charactersheet for the tabletop game Mausritter. After finishing this project, I want to convert the app to React Native so it's also usable on apple and android devices. 
+<br/>
+[Here's a link to Mausritter](https://mausritter.com/)
 
 
 Reach out to me at: 
