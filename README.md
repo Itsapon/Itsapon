@@ -21,7 +21,7 @@ I've recently graduated from Codaisseur and I'm excited to continue to challenge
 <img align="left" alt="PostgressSQL" src="https://img.shields.io/badge/PostgressSQL-9cf?style=flat&logo=postgresql" />
 <img align="left" alt="nodeJS" src="https://img.shields.io/badge/Node.Js-brightgreen?style=flat&logo=nodedotjs" />
 <img align="left" alt="Sequelize" src="https://img.shields.io/badge/Sequelize-brightgreen?style=flat&logo=sequelize" />]
-
+<br />
 ### Current projects:
 
 #### 🐭 Mausritter charactersheet :mouse:
