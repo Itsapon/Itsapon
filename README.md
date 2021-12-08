@@ -1,5 +1,14 @@
 ### Hello there! ✨
 
+I recently graduated from [Codaisseur](https://www.https://codaisseur.com/)as a Fullstack Javascript Developer, and I'm excited to face new challenges ahead! 
+I'm trained in building fullstack applications.
+
+## Languages & tools ✨
+
+
+
+
+
 <!--
 **Itsapon/Itsapon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
