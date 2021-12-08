@@ -1,5 +1,7 @@
-### Hi there 👋, My name is Robin
-😄 Pronouns: He/him 
+### Hi there! My name is Robin
+✨ Pronouns: He/him 
+✨ I'm currently learning: React Native
+✨ Funfact: In my free time I like to knit
 
 ### I'm a recently graduated Fullstack Javascript Developer
 
