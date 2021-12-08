@@ -35,7 +35,7 @@ For my graduate project I have been building an app to create and save a charact
 
 Reach out to me at: 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg#gh-light-mode-only' alt='github' height='40'>](https://github.com/Itsapon)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg#gh-light-mode-only' alt='github' height='40' style="background-color: white;">](https://github.com/Itsapon)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg#gh-light-mode-only' alt='linkedin' height='40'>](https://www.linkedin.com/in/robin-mier/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsapon)](https://github.com/anuraghazra/github-readme-stats)
