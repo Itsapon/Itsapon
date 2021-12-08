@@ -1,12 +1,14 @@
 ### Hi there! My name is Robin
 ✨ Pronouns: He/him 
+<br />
 ✨ I'm currently learning: React Native
+<br />
 ✨ Funfact: In my free time I like to knit
 
 ### I'm a recently graduated Fullstack Javascript Developer
 
 
-I've recently graduated from Codaisseur and I'm excited to continue to challenge myself going forward! I've been trained in creating fullstack applications, and I'm currently working on expanding my knowledge in React Native.
+I've recently graduated from [Codaisseur](https://codaisseur.com/) and I'm excited to continue to challenge myself going forward! I've been trained in creating fullstack applications, and I'm currently working on expanding my knowledge in React Native.
 
 
 
