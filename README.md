@@ -22,7 +22,8 @@ I've recently graduated from Codaisseur and I'm excited to continue to challenge
 <img align="left" alt="React" src="https://img.shields.io/badge/React-grey?style=flat&logo=React" />
 <img align="left" alt="PostgressSQL" src="https://img.shields.io/badge/PostgressSQL-9cf?style=flat&logo=postgresql" />
 <img align="left" alt="nodeJS" src="https://img.shields.io/badge/Node.Js-brightgreen?style=flat&logo=nodedotjs" />
-<img align="left" alt="Sequelize" src="https://img.shields.io/badge/Sequelize-brightgreen?style=flat&logo=sequelize" />]
+<img align="left" alt="Sequelize" src="https://img.shields.io/badge/Sequelize-brightgreen?style=flat&logo=sequelize" />
+
 <br />
 ### Current projects:
 
@@ -35,7 +36,8 @@ For my graduate project I have been building an app to create and save a charact
 
 Reach out to me at: 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Itsapon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/robin-mier/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg#gh-light-mode-only' alt='github' height='40'>](https://github.com/Itsapon)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg#gh-light-mode-only' alt='linkedin' height='40'>](https://www.linkedin.com/in/robin-mier/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsapon)](https://github.com/anuraghazra/github-readme-stats)
 
