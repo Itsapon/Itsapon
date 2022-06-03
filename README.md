@@ -1,7 +1,7 @@
 ### Hi there! My name is Robin
 ✨ Pronouns: He/him 
 <br />
-✨ I'm currently learning: React Native
+✨ I'm currently learning: Vue
 <br />
 ✨ Funfact: In my free time I like to knit
 
