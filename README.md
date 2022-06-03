@@ -5,10 +5,10 @@
 <br />
 ✨ Funfact: In my free time I like to knit
 
-### I'm a recently graduated Fullstack Javascript Developer
+### I'm a Junior Javascript Developer with a passion for humanity and gamification
 
 
-I've recently graduated from [Codaisseur](https://codaisseur.com/) and I'm excited to continue to challenge myself going forward! I've been trained in creating fullstack applications, and I'm currently working on expanding my knowledge in React Native.
+After graduating from [Codaisseur](https://codaisseur.com/), my journey has continued as a web developer for CyberDigma, where I keep challenging myself and broadening my skillset every day! 
 
 
 
@@ -30,7 +30,7 @@ I've recently graduated from [Codaisseur](https://codaisseur.com/) and I'm excit
  </P>
 
 <p>
-### Current projects:
+### Past projects:
 
 #### 🐭 Mausritter charactersheet :mouse:
 
