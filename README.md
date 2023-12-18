@@ -1,14 +1,14 @@
 ### Hi there! My name is Robin
 ✨ Pronouns: He/him 
 <br />
-✨ I'm currently learning: Vue
+✨ I'm currently learning: React
 <br />
-✨ Funfact: In my free time I like to knit
+✨ Funfact: In my free time I like to knit, weave & play the harp
 
 ### I'm a Junior Javascript Developer with a passion for humanity and gamification
 
 
-After graduating from [Codaisseur](https://codaisseur.com/), my journey has continued as a web developer for CyberDigma, where I keep challenging myself and broadening my skillset every day! 
+After graduating from [Codaisseur](https://codaisseur.com/), my journey has continued as a cloud developer for Solease, where I keep challenging myself and broadening my skillset every day! 
 
 
 
@@ -16,7 +16,7 @@ After graduating from [Codaisseur](https://codaisseur.com/), my journey has cont
 ### languages and tools: 
 
  <p>
-    <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+
     <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
@@ -30,15 +30,7 @@ After graduating from [Codaisseur](https://codaisseur.com/), my journey has cont
  </P>
 
 <p>
-### Past projects:
 
-#### 🐭 Mausritter charactersheet :mouse:
-
-For my graduate project I have been building an app to create and save a charactersheet for the tabletop game Mausritter. After finishing this project, I want to convert the app to React Native so it's also usable on apple and android devices. 
-<br/>
-[Here's a link to Mausritter](https://mausritter.com/)
-
-</p>
 Reach out to me at: 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg#gh-light-mode-only' alt='github' height='40' style="background-color: white;">](https://github.com/Itsapon)  
