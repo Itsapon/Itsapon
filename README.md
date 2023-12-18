@@ -27,7 +27,7 @@ After graduating from [Codaisseur](https://codaisseur.com/), my journey has cont
     <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" />
     <img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-52B0E7?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
 
- </P>
+ </p>
 
 <p>
 
