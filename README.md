@@ -10,27 +10,6 @@
 
 After graduating from [Codaisseur](https://codaisseur.com/), my journey has continued as a cloud developer for Solease, where I keep challenging myself and broadening my skillset every day! 
 
-
-
-
-### languages and tools: 
-
- <p>
-
-    <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
-    <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" />
-    <img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-52B0E7?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
-
- </p>
-
-<p>
-
 Reach out to me at: 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg#gh-light-mode-only' alt='github' height='40' style="background-color: white;">](https://github.com/Itsapon)  
